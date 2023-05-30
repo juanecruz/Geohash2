@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/workspaces/codespaces-blank",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "typeinfo": "cpp"
+    }
+}
